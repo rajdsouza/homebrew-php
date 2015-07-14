@@ -4,7 +4,7 @@ class Php55Crypto < AbstractPhp55Extension
   init
   homepage 'http://pecl.php.net/package/crypto'
   url 'http://pecl.php.net/get/crypto-0.1.0.tgz'
-  sha1 '518454c7898d5ba33713a7a8cf2cb2f6acf68824'
+  sha1 '91294bbbc672782899a980001519a25b58041e09'
   head 'https://github.com/bukka/php-crypto.git'
 
   def install
